@@ -4,3 +4,4 @@ assets/
 txk/
 *.log
 !important.log
+about.html
