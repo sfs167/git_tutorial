@@ -1,0 +1,6 @@
+db.sql
+password.txt
+assets/
+txk/
+*.log
+!important.log
